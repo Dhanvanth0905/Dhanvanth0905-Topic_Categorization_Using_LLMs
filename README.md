@@ -1,1 +1,2 @@
-# Dhanvanth0905-Topic_Categorization_Using_LLMs
+# Topic-Categorization-Using-LLMs
+The repository contains a comparative study between PaLM, BERT and GPT for categorizing Topics
